@@ -11,4 +11,9 @@ func main() {
 	}
 	fmt.Println("The Map elements are:", map_1)
 
+	for key, value := range map_1 {
+		fmt.Print(key, value)
+		fmt.Print("\n")
+	}
+
 }
