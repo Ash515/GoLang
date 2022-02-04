@@ -20,5 +20,5 @@ func main() {
 }
 ```
 
-## Images
+
 <img src="go.png" width="400px">
