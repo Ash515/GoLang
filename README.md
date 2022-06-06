@@ -24,4 +24,4 @@ func main() {
 <img src="go.png" width="400px">
 
 By ❤️
-Ashwin Kumar R 
+Ashwin Kumar Ramaswamy 
