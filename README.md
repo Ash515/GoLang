@@ -1,4 +1,4 @@
-# GoLang
+# Go Programming
 Go language codes and concepts.
 
 ## What is Go?
