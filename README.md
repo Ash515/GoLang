@@ -1,4 +1,4 @@
-# Go Programming
+# Go Programming Language
 Go language codes and concepts.
 
 ## What is Go?
